@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Crime-Report-PDF-Generator/static/css/main.4658566a.css",
+    "main.js": "/Crime-Report-PDF-Generator/static/js/main.9b143f21.js",
+    "static/js/703.34aae26b.chunk.js": "/Crime-Report-PDF-Generator/static/js/703.34aae26b.chunk.js",
+    "static/js/513.a55e6fce.chunk.js": "/Crime-Report-PDF-Generator/static/js/513.a55e6fce.chunk.js",
+    "static/js/787.02bf9cb3.chunk.js": "/Crime-Report-PDF-Generator/static/js/787.02bf9cb3.chunk.js",
+    "index.html": "/Crime-Report-PDF-Generator/index.html",
+    "main.4658566a.css.map": "/Crime-Report-PDF-Generator/static/css/main.4658566a.css.map",
+    "main.9b143f21.js.map": "/Crime-Report-PDF-Generator/static/js/main.9b143f21.js.map",
+    "703.34aae26b.chunk.js.map": "/Crime-Report-PDF-Generator/static/js/703.34aae26b.chunk.js.map",
+    "513.a55e6fce.chunk.js.map": "/Crime-Report-PDF-Generator/static/js/513.a55e6fce.chunk.js.map",
+    "787.02bf9cb3.chunk.js.map": "/Crime-Report-PDF-Generator/static/js/787.02bf9cb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4658566a.css",
+    "static/js/main.9b143f21.js"
+  ]
+}
